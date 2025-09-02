@@ -11,3 +11,4 @@ deleted and recreated during the program execution. Therefore they might not be 
 10. GPT_progress file contain the number of failed requests vs successes of gpt-4o which currently runs at approx. 13%
 11. Note: Level generation time may depend on the PC and networking conditions.
 12. Run RPGIntellignt.py to execute the program.
+13. If a large dataset needs to be collected, run dataset_collector.py by importing it to the main directory.
