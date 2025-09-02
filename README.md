@@ -9,4 +9,5 @@
 9. Note: sample_instance.json and trmporary_dataset.json under self.training_dataset, self.temporary_dataset.json files under Preprocessor class -> dataset_preprocessor.py are
 deleted and recreated during the program execution. Therefore they might not be visible at times.
 10. GPT_progress file contain the number of failed requests vs successes of gpt-4o which currently runs at approx. 13%
-    
+11. Note: Level generation time may depend on the PC and networking conditions.
+12. Run RPGIntellignt.py to execute the program.
